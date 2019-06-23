@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">WordApplication</string>
+    <string name="title">Words For Kids</string>
+    <string name="not_pic">not pic</string>
+    <string name="start_button">START</string>
+    <string name="exit_button">EXIT</string>
+    <string name="back_button">BACK</string>
+    <string name="next_button">NEXT</string>
+
+    <string name="category">เลือกหมวดหมู่</string>
+    <string name="fruit_str">ผักและผลไม้[Fruit]</string>
+    <string name="underwater_str">สัตว์น้ำ [Underwater World]</string>
+    <string name="body_str">ร่างกาย [Body]</string>
+    <string name="school_str">โรงเรียน [School]</string>
+    <string name="family_str">ครอบครัว [Family]</string>
+    <string name="colors_str">สี [colors]</string>
+    <string name="vehicle_str">ยานพาหนะ [vehicles]</string>
+    <string name="shape_str">รูปร่าง [shape]</string>
+    <string name="animal_str">สัตว์ [Animals]</string>
+    <string name="costume_str">เครื่องแต่งกาย [costume]</string>
+    <string name="jobs_str">อาชีพ [Jobs] </string>
+    <string name="home_str">บ้าน [My home] </string>
+    <string name="kitchen_str">ห้องครัว [Kitchen]</string>
+
+    <string name="word_title">groups</string>
+    <string name="word_name">word name</string>
+</resources>
